@@ -1,0 +1,6 @@
+git config --global credential.helper store
+git config --global credential.helper 'cache --timeout=3600'
+
+
+
+el timeout es el tiempo que se queda guardado una vez la pones
