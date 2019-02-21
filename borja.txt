@@ -1,7 +1,11 @@
 Hey
-qué pasa
+qué pawdxgfsa
 
 ok
+<<<<<<< HEAD
 
 EL CAMIBO
 
+=======
+cambio fernando master
+>>>>>>> 26f66b3f156bace11aa27102d9e9c87efa61a0d7
